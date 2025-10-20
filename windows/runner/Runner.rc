@@ -90,12 +90,12 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.jehuel" "\0"
-            VALUE "FileDescription", "places" "\0"
+            VALUE "FileDescription", "place" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "places" "\0"
+            VALUE "InternalName", "place" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2025 com.jehuel. All rights reserved." "\0"
-            VALUE "OriginalFilename", "places.exe" "\0"
-            VALUE "ProductName", "places" "\0"
+            VALUE "OriginalFilename", "place.exe" "\0"
+            VALUE "ProductName", "place" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END

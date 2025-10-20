@@ -1,3 +1,3 @@
-# places
+# place
 
 A new Flutter project.

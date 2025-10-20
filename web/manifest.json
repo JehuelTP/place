@@ -1,6 +1,6 @@
 {
-    "name": "places",
-    "short_name": "places",
+    "name": "place",
+    "short_name": "place",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
